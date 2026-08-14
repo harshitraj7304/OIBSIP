@@ -326,21 +326,22 @@ The footer contains product navigation, resources, company information, social l
 The project was developed using pure HTML5 and CSS3.
 
 ---
+👨‍💻 Author
+Harshit Raj
 
-# 📂 Folder Structure
+B.Tech Computer Science & Engineering Student
+Aspiring Software Developer
+Oasis Infobyte Student Intern — Web Development & Designing
 
-```text
-WebDev-L1-LandingPage/
-│
-├── screenshots/
-│   ├── Home(9).png
-│   ├── Features(1).png
-│   ├── How-It-Works.png
-│   ├── Solutions.png
-│   ├── Testimonials.png
-│   ├── Pricing.png
-│   └── Footer.png
-│
-├── index.html
-├── style.css
-└── README.md
+I am a Computer Science & Engineering student with an interest in software development, web technologies, problem solving, and building practical digital solutions.
+
+This project was developed as part of my Oasis Infobyte Student Internship Program (OIBSIP) in the Web Development & Designing track.
+
+🔗 Connect With Me
+
+GitHub:
+https://github.com/harshitraj7304
+
+LinkedIn:
+https://www.linkedin.com/in/harshit-raj-35a657229
+
