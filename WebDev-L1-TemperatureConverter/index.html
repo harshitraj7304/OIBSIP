@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A fast, accurate Temperature Converter — instantly convert between Celsius, Fahrenheit, and Kelvin with input validation and a clean modern interface."
+    />
+    <title>Temperature Converter | OIBSIP Level 1 – Task 3</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- Google Fonts – Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+
+    <!-- ─── Background decorative blobs ─── -->
+    <div class="bg-blob bg-blob--1" aria-hidden="true"></div>
+    <div class="bg-blob bg-blob--2" aria-hidden="true"></div>
+
+    <!-- ─── Page wrapper ─── -->
+    <div class="page-wrapper">
+
+      <!-- ══════════════ HEADER ══════════════ -->
+      <header class="site-header">
+        <div class="header-icon" aria-hidden="true">🌡️</div>
+        <h1 class="site-title">Temperature Converter</h1>
+        <p class="site-subtitle">
+          Instantly convert between Celsius, Fahrenheit &amp; Kelvin
+        </p>
+      </header>
+
+      <!-- ══════════════ MAIN CARD ══════════════ -->
+      <main>
+        <section class="converter-card" aria-label="Temperature converter">
+
+          <!-- ── Input row ── -->
+          <div class="input-group">
+            <label for="temp-input" class="field-label">Temperature Value</label>
+            <div class="input-wrapper">
+              <input
+                type="number"
+                id="temp-input"
+                class="temp-input"
+                placeholder="Enter temperature…"
+                autocomplete="off"
+                aria-describedby="input-error"
+                step="any"
+              />
+              <span class="input-unit-badge" id="input-unit-badge">°C</span>
+            </div>
+            <!-- Validation error message -->
+            <p class="error-msg" id="input-error" role="alert" aria-live="polite"></p>
+          </div>
+
+          <!-- ── Unit selector row ── -->
+          <div class="unit-selector-row">
+
+            <!-- FROM unit -->
+            <div class="unit-block">
+              <p class="unit-block__label">From</p>
+              <div class="unit-btn-group" role="group" aria-label="Input unit">
+                <button
+                  type="button"
+                  class="unit-btn unit-btn--active"
+                  data-unit="celsius"
+                  data-role="from"
+                  id="from-celsius"
+                  aria-pressed="true"
+                >
+                  °C
+                </button>
+                <button
+                  type="button"
+                  class="unit-btn"
+                  data-unit="fahrenheit"
+                  data-role="from"
+                  id="from-fahrenheit"
+                  aria-pressed="false"
+                >
+                  °F
+                </button>
+                <button
+                  type="button"
+                  class="unit-btn"
+                  data-unit="kelvin"
+                  data-role="from"
+                  id="from-kelvin"
+                  aria-pressed="false"
+                >
+                  K
+                </button>
+              </div>
+            </div>
+
+            <!-- Swap button -->
+            <div class="swap-block">
+              <button
+                type="button"
+                class="swap-btn"
+                id="swap-btn"
+                aria-label="Swap input and output units"
+                title="Swap units"
+              >
+                ⇄
+              </button>
+            </div>
+
+            <!-- TO unit -->
+            <div class="unit-block">
+              <p class="unit-block__label">To</p>
+              <div class="unit-btn-group" role="group" aria-label="Output unit">
+                <button
+                  type="button"
+                  class="unit-btn"
+                  data-unit="celsius"
+                  data-role="to"
+                  id="to-celsius"
+                  aria-pressed="false"
+                >
+                  °C
+                </button>
+                <button
+                  type="button"
+                  class="unit-btn unit-btn--active"
+                  data-unit="fahrenheit"
+                  data-role="to"
+                  id="to-fahrenheit"
+                  aria-pressed="true"
+                >
+                  °F
+                </button>
+                <button
+                  type="button"
+                  class="unit-btn"
+                  data-unit="kelvin"
+                  data-role="to"
+                  id="to-kelvin"
+                  aria-pressed="false"
+                >
+                  K
+                </button>
+              </div>
+            </div>
+
+          </div><!-- /.unit-selector-row -->
+
+          <!-- ── Action buttons ── -->
+          <div class="action-row">
+            <button type="button" class="btn btn--convert" id="convert-btn">
+              Convert
+            </button>
+            <button type="button" class="btn btn--reset" id="reset-btn">
+              Reset
+            </button>
+          </div>
+
+          <!-- ── Result panel ── -->
+          <div class="result-panel" id="result-panel" aria-live="polite" aria-atomic="true">
+            <div class="result-panel__inner result-panel--placeholder" id="result-inner">
+              <p class="result-hint">Enter a value and press <strong>Convert</strong></p>
+            </div>
+          </div>
+
+          <!-- ── Quick-reference table ── -->
+          <details class="reference-drawer">
+            <summary class="reference-drawer__toggle">
+              Common Reference Points
+            </summary>
+            <div class="reference-table-wrap">
+              <table class="reference-table">
+                <caption class="visually-hidden">Common temperature reference points</caption>
+                <thead>
+                  <tr>
+                    <th scope="col">Description</th>
+                    <th scope="col">°C</th>
+                    <th scope="col">°F</th>
+                    <th scope="col">K</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Absolute Zero</td>
+                    <td>−273.15</td>
+                    <td>−459.67</td>
+                    <td>0</td>
+                  </tr>
+                  <tr>
+                    <td>Water Freezes</td>
+                    <td>0</td>
+                    <td>32</td>
+                    <td>273.15</td>
+                  </tr>
+                  <tr>
+                    <td>Body Temperature</td>
+                    <td>37</td>
+                    <td>98.6</td>
+                    <td>310.15</td>
+                  </tr>
+                  <tr>
+                    <td>Water Boils</td>
+                    <td>100</td>
+                    <td>212</td>
+                    <td>373.15</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </details>
+
+        </section><!-- /.converter-card -->
+      </main>
+
+      <!-- ══════════════ FOOTER ══════════════ -->
+      <footer class="site-footer">
+        <p>OIBSIP — Web Dev &amp; Designing Internship &nbsp;|&nbsp; Level 1 Task 3</p>
+      </footer>
+
+    </div><!-- /.page-wrapper -->
+
+    <script src="script.js"></script>
+  </body>
+</html>
