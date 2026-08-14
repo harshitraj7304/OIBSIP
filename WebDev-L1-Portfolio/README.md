@@ -170,28 +170,10 @@ WebDev-L1-Portfolio/
 ├── style.css
 └── README.md
 
-🔗 Connect With Me
+### 👨‍💻 Author
 
-GitHub:
-https://github.com/harshitraj7304
-
-LinkedIn:
-https://www.linkedin.com/in/harshit-raj-35a657229
-
-Email:
-harshitraj7304845705@gmail.com
-
-📊 Project Status
-
-OIBSIP Level 1 — Task 2: Completed ✅
-
-This project was developed as part of the Oasis Infobyte Web Development & Designing Internship.
-
-👨‍💻 Author
-
-Harshit Raj
-
-B.Tech — Computer Science & Engineering
-Batch: 2026
-CGPA: 7.3
-Lucknow, Uttar Pradesh, India
+**Harshit Raj**  
+*Oasis Infobyte Intern — Web Development & Designing Track*  
+*Submission: Level 1 — Task 1 (Landing Page)*  
+- **GitHub:** [harshitraj7304](https://github.com/harshitraj7304)  
+- **LinkedIn:** [Harshit Raj](https://www.linkedin.com/in/harshit-raj-35a657229)
