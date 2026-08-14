@@ -220,7 +220,7 @@ The following screenshots showcase the major sections of the NovaFlow landing pa
 
 ## 🏠 Home / Hero Section
 
-![NovaFlow Home](screenshots/Home%289%29.png)
+![NovaFlow Home](screenshots/Home.png)
 
 The hero section introduces NovaFlow with the main product headline, CTA buttons, product dashboard visualization, and social proof.
 
@@ -228,7 +228,7 @@ The hero section introduces NovaFlow with the main product headline, CTA buttons
 
 ## ⚡ Features / Core Capabilities
 
-![NovaFlow Features](screenshots/Features%281%29.png)
+![NovaFlow Features](screenshots/Features.png)
 
 The Features section presents the core AI-powered capabilities of the NovaFlow platform.
 
