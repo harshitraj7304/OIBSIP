@@ -6,49 +6,68 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Optional-F7DF1E?logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-A responsive personal portfolio website developed as part of the **Oasis Infobyte Student Internship Program (OIBSIP)** — Web Development & Designing track.
+A responsive personal portfolio website developed as part of the **Oasis Infobyte Student Internship Program (OIBSIP)** under the Web Development & Designing track.
 
 ---
 
 ## 📌 Internship Information
 
-- **Internship Program:** Oasis Infobyte Student Internship Program (OIBSIP)
-- **Domain:** Web Development & Designing
-- **Level:** Level 1
-- **Task:** Task 2 — Personal Portfolio
-- **Intern:** Harshit Raj
-- **Passing Year:** 2026
-- **Current CGPA:** 7.3
+| Details | Information |
+|---|---|
+| **Internship Program** | Oasis Infobyte Student Internship Program (OIBSIP) |
+| **Domain** | Web Development & Designing |
+| **Level** | Level 1 |
+| **Task** | Task 2 — Personal Portfolio |
+| **Intern** | Harshit Raj |
+| **Passing Year** | 2026 |
+| **Current CGPA** | 7.3 |
+| **Location** | Lucknow, Uttar Pradesh, India |
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About the Project
 
-I am a passionate Computer Science & Engineering undergraduate student based in Lucknow, Uttar Pradesh.
+This project is a responsive personal portfolio website created for **OIBSIP Level 1 — Task 2**.
 
-I am interested in software development, web development, problem solving, and building clean, responsive, and user-centric web applications.
+The portfolio presents my professional profile, technical skills, education, projects, and contact information through a clean and responsive web interface.
 
-Currently pursuing my B.Tech in Computer Science & Engineering, I am continuously improving my technical skills through practical projects, programming practice, and internship experience.
+The website is designed to work across desktop, tablet, and mobile screen sizes.
 
 ---
 
-## 🎯 Portfolio Highlights
+## 🎯 Objectives
 
-The portfolio website includes:
+The main objectives of this project are:
 
-- Responsive navigation
-- Personal introduction
+- Create a professional personal portfolio.
+- Present personal and educational information.
+- Showcase technical skills.
+- Display selected development projects.
+- Provide GitHub and LinkedIn connectivity.
+- Provide contact information.
+- Implement responsive web design.
+- Practice semantic HTML5 and modern CSS3 styling.
+
+---
+
+## ✨ Features
+
+- Responsive navigation bar
+- Home / Hero section
+- Professional profile section
+- About Me section
 - Education information
-- Career goals
-- Technical skills
-- Programming and CS fundamentals
-- Developer tools and workflow
-- Featured projects
-- Contact information
-- GitHub and LinkedIn links
-- Resume download section
-- Responsive design for different screen sizes
-- Personal profile photograph
+- Technical Skills section
+- Featured Projects section
+- Contact section
+- GitHub profile link
+- LinkedIn profile link
+- Email contact
+- Professional profile photograph
+- Responsive desktop and mobile layout
+- Smooth section navigation
+- Modern card-based UI
+- Consistent visual design
 
 ---
 
@@ -65,8 +84,9 @@ The portfolio website includes:
 - Responsive Web Design
 - CSS Flexbox
 - CSS Grid
-- Modern UI styling
 - Semantic HTML
+- Modern CSS styling
+- Smooth scrolling
 
 ### Development Tools
 
@@ -80,7 +100,7 @@ The portfolio website includes:
 
 ### 1. SmartQuiz
 
-An interactive quiz and assessment application featuring timed questionnaires, multiple topic categories, score computation, and performance-oriented testing features.
+SmartQuiz is an interactive quiz and assessment project designed to provide users with an engaging quiz experience.
 
 **Technologies:**
 
@@ -90,29 +110,29 @@ An interactive quiz and assessment application featuring timed questionnaires, m
 - Express.js
 - MongoDB
 
-🔗 [GitHub Repository](https://github.com/harshitraj7304/smartquiz)
+🔗 **GitHub:**  
+https://github.com/harshitraj7304/smartquiz
 
 ---
 
 ### 2. Vidyora School OS
 
-A school management system designed to streamline student records, teacher scheduling, attendance monitoring, and academic administration.
+Vidyora School OS is a school management project focused on organizing school-related workflows and administrative functionality.
 
 **Technologies:**
 
 - React.js
-- Node.js
-- Express.js
-- MongoDB
-- Tailwind CSS
+- JavaScript
+- Supabase
 
-🔗 [GitHub Repository](https://github.com/harshitraj7304/vidyora-school-os)
+🔗 **GitHub:**  
+https://github.com/harshitraj7304/vidyora-school-os
 
 ---
 
 ### 3. Leadflow CRM
 
-A customer relationship management application focused on organizing sales pipelines, communication records, lead conversions, and workflow visibility.
+Leadflow CRM is a customer relationship management project designed to organize leads and business workflow information.
 
 **Technologies:**
 
@@ -121,9 +141,9 @@ A customer relationship management application focused on organizing sales pipel
 - Node.js
 - Express.js
 - MongoDB
-- REST APIs
 
-🔗 [GitHub Repository](https://github.com/harshitraj7304/leadflow-crm)
+🔗 **GitHub:**  
+https://github.com/harshitraj7304/leadflow-crm
 
 ---
 
@@ -133,17 +153,25 @@ A customer relationship management application focused on organizing sales pipel
 
 ![Home](screenshots/Home.png)
 
+---
+
 ### 👤 About
 
 ![About](screenshots/About.png)
+
+---
 
 ### 🛠️ Skills
 
 ![Skills](screenshots/Skills.png)
 
+---
+
 ### 💻 Projects
 
 ![Projects](screenshots/Projects.png)
+
+---
 
 ### 📩 Contact
 
@@ -157,7 +185,8 @@ A customer relationship management application focused on organizing sales pipel
 WebDev-L1-Portfolio/
 │
 ├── assets/
-│   └── profile images and other assets
+│   ├── harshit-raj.jpg
+│   └── Harshit-Raj-Resume.pdf
 │
 ├── screenshots/
 │   ├── Home.png
@@ -169,11 +198,3 @@ WebDev-L1-Portfolio/
 ├── index.html
 ├── style.css
 └── README.md
-
-### 👨‍💻 Author
-
-**Harshit Raj**  
-*Oasis Infobyte Intern — Web Development & Designing Track*  
-*Submission: Level 1 — Task 1 (Landing Page)*  
-- **GitHub:** [harshitraj7304](https://github.com/harshitraj7304)  
-- **LinkedIn:** [Harshit Raj](https://www.linkedin.com/in/harshit-raj-35a657229)
