@@ -180,8 +180,23 @@ https://github.com/harshitraj7304/leadflow-crm
 ---
 
 ## 👨‍💻 Author
-**Harshit Raj** 
-*Oasis Infobyte Intern — Web Development & Designing Track* 
-*Submission: Level 1 — Task 2 (Portfolio)* - 
-**GitHub:** [harshitraj7304](https://github.com/harshitraj7304) - 
-**LinkedIn:** [Harshit Raj](https://www.linkedin.com/in/harshit-raj-35a657229)
+
+**Harshit Raj**  
+B.Tech Computer Science & Engineering Student | Aspiring Software Developer
+
+Designed and developed as part of the **Oasis Infobyte Student Internship Program (OIBSIP)** under the **Web Development & Designing — Level 1, Task 2**.
+
+This personal portfolio showcases my educational background, technical skills, development projects, career goals, and professional contact information through a responsive and modern web interface.
+
+The portfolio was developed using **HTML5 and CSS3**, with a focus on semantic structure, responsive layouts, modern UI design, CSS Grid, Flexbox, reusable components, and accessibility-friendly development.
+
+**Internship:** Oasis Infobyte Student Internship Program (OIBSIP)  
+**Track:** Web Development & Designing  
+**Level:** 1  
+**Task:** Task 2 — Personal Portfolio  
+**Project:** Harshit Raj — Personal Portfolio
+
+### 🔗 Connect
+
+- **GitHub:** [harshitraj7304](https://github.com/harshitraj7304)
+- **LinkedIn:** [Harshit Raj](https://www.linkedin.com/in/harshit-raj-35a657229)
