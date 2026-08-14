@@ -1,8 +1,9 @@
-# NovaFlow — AI-Powered Productivity Platform (Landing Page)
+# NovaFlow — AI-Powered Productivity Platform
 
-![Project Banner](https://img.shields.io/badge/OIBSIP-Level%201%20Task%201-6366f1?style=for-the-badge)
+![OIBSIP Level 1 Task 1](https://img.shields.io/badge/OIBSIP-Level%201%20Task%201-6366f1?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3-06b6d4?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed%20%E2%9C%93-10b981?style=for-the-badge)
+![Author](https://img.shields.io/badge/Author-Harshit%20Raj-8b5cf6?style=for-the-badge)
 
 ---
 
@@ -13,163 +14,333 @@
 - **Level:** Level 1
 - **Task:** Task 1 — Landing Page
 - **Author / Intern:** Harshit Raj
+- **Internship Organization:** Oasis Infobyte
+- **Project Type:** Responsive SaaS Landing Page
 
 ---
 
 ## 📖 Project Overview
 
-**NovaFlow** is a modern, high-conversion landing page designed for a fictional next-generation AI-powered workspace and workflow automation platform. 
+**NovaFlow** is a modern, high-conversion landing page designed for a fictional next-generation AI-powered workspace and workflow automation platform.
 
-This project was built from scratch without any third-party CSS frameworks (like Bootstrap or Tailwind) or JavaScript libraries, demonstrating strong mastery of semantic HTML5 architecture, modern CSS3 layout paradigms (Flexbox & CSS Grid), CSS variables, responsive typography, and micro-interactions.
+The landing page presents NovaFlow as an intelligent productivity platform that helps engineering and product teams automate workflows, reduce context switching, manage knowledge, and improve development productivity.
+
+The project was developed from scratch using semantic HTML5 and modern CSS3 without relying on third-party CSS frameworks such as Bootstrap or Tailwind CSS.
+
+The design focuses on:
+
+- Modern SaaS aesthetics
+- Responsive layouts
+- Clean semantic HTML
+- CSS Grid and Flexbox
+- Gradient-based visual design
+- Glassmorphism-inspired components
+- Interactive hover effects
+- Strong typography hierarchy
+- Accessible and structured content
 
 ---
 
 ## 🎯 Objectives
 
-- Create an engaging, modern, and visually stunning landing page for a technology product.
-- Implement a sticky/fixed glassmorphic header with interactive navigation links.
-- Design a high-impact Hero Section with strong headlines, subheadlines, interactive CTA buttons, and product visual previews.
-- Build multiple distinct content sections (Features, Workflow Steps, Comparison/Solutions, Metrics/Stats, Testimonials, Pricing, and Final CTA).
-- Guarantee 100% responsiveness across Desktop, Tablet, and Mobile screen sizes using clean CSS media queries.
-- Deliver production-ready code with clean folder structure, zero broken links, and high accessibility standards.
+The primary objectives of this project were:
+
+- Create a professional and modern SaaS landing page.
+- Build a visually engaging hero section.
+- Implement responsive navigation and page layouts.
+- Present product features through structured cards.
+- Create a clear "How It Works" workflow.
+- Showcase customer testimonials.
+- Design a professional pricing section.
+- Include a comparison/solutions section.
+- Add strong Call-to-Action sections.
+- Create a complete multi-column footer.
+- Ensure responsiveness across desktop, tablet, and mobile screen sizes.
+- Maintain clean and organized HTML5 and CSS3 code.
 
 ---
 
-## 🛠️ Technologies Used
+## ✨ Key Features
 
-- **HTML5:** Semantic markup (`header`, `nav`, `main`, `section`, `article`, `footer`, `figure`).
-- **CSS3:** Custom properties (CSS variables), CSS Grid, Flexbox, responsive typography (`clamp()`), gradients, animations, glassmorphism (`backdrop-filter`), and media queries.
-- **Google Fonts:** Plus Jakarta Sans & Space Grotesk.
-- **Icons & Graphics:** Crisp, resolution-independent inline SVGs.
-- **Frameworks / Libraries:** **None** (100% pure vanilla HTML5 & CSS3).
+### 1. Sticky Navigation Bar
 
----
+The landing page includes a modern navigation bar containing:
 
-## ✨ Key Features & Sections
+- NovaFlow brand logo
+- Features
+- How It Works
+- Solutions
+- Testimonials
+- Pricing
+- Sign In
+- Get Started Free CTA
 
-1. **Sticky Glassmorphic Navbar:**
-   - Modern brand logo with vibrant gradient icon.
-   - Smooth navigation links (`Features`, `How It Works`, `Solutions`, `Testimonials`, `Pricing`).
-   - Call-to-action buttons (`Sign In`, `Get Started Free`).
-   - Pure CSS responsive mobile hamburger navigation menu (zero JavaScript dependency).
-
-2. **Impactful Hero Section:**
-   - Announcement badge pill (`⚡ NovaFlow 3.0 is Live`).
-   - Strong value-focused headline and persuasive subheadline.
-   - Dual Call-to-Action buttons with glowing hover effects.
-   - Social proof rating badge (4.9/5 stars from 25,000+ teams).
-   - Interactive SaaS product dashboard mockup visual with live metrics and workflow visualizer.
-
-3. **Social Proof / Partner Strip:**
-   - High-growth company badges demonstrating industry trust.
-
-4. **Impact Metrics / Stats Grid:**
-   - 4 key performance indicators (10x Faster Sprint Cycles, 85% Less Repetitive Work, 25k+ Active Teams, 99.99% Uptime).
-
-5. **Feature Cards (6 Core Capabilities):**
-   - Autonomous Workflow Engine
-   - Neural Knowledge Graph
-   - Collaborative AI Canvas
-   - Predictive Sprint Intelligence
-   - Enterprise-Grade Security
-   - 200+ Integrations & REST API
-   - Hover lift animations, gradient borders, and color-coded icon badges.
-
-6. **How It Works (Step-by-Step Flow):**
-   - 3-step structured walkthrough for seamless user onboarding.
-
-7. **Solutions / Comparison Module:**
-   - Side-by-side comparison of legacy disjointed workflows vs. NovaFlow unified intelligence.
-   - Glassmorphic real-time velocity metrics display.
-
-8. **Testimonials Section:**
-   - Customer review cards with 5-star ratings, author avatars, and company designations.
-   - Featured highlight badge for premier social proof.
-
-9. **Pricing Tier Preview:**
-   - Starter, Pro Team (Featured with "Most Popular" glow badge), and Enterprise plans with comprehensive feature checklists.
-
-10. **High-Converting Final CTA Section:**
-    - High-contrast radiant gradient banner with risk-reversal guarantee points.
-
-11. **Comprehensive 4-Column Footer:**
-    - Brand mission statement, quick navigation links (Product, Resources, Company), social media buttons (GitHub, Twitter, LinkedIn, Discord), copyright notice, and Oasis Infobyte attribution badge.
+The navigation provides quick access to different sections of the landing page.
 
 ---
 
-## 📂 Folder Structure
+### 2. Hero Section
+
+The hero section introduces NovaFlow with a strong product-focused headline:
+
+> Work Smarter. Automate Faster. Ship Beyond Limits.
+
+It includes:
+
+- Product announcement badge
+- Main product headline
+- Supporting description
+- Primary CTA
+- Interactive demo CTA
+- Social proof rating
+- Product dashboard visualization
+
+---
+
+### 3. Core Capabilities
+
+The Features section showcases the primary capabilities of NovaFlow.
+
+Featured capabilities include:
+
+- **Autonomous Workflow Engine**
+- **Neural Knowledge Graph**
+- **Collaborative AI Canvas**
+
+Each feature card contains:
+
+- Feature icon
+- Feature title
+- Description
+- Supporting capabilities
+- Modern card styling
+
+---
+
+### 4. How It Works
+
+The workflow section explains the NovaFlow process through three simple steps:
+
+#### Step 01 — Connect Your Stack
+
+Connect repositories, project management platforms, and communication channels.
+
+#### Step 02 — Configure Smart Agents
+
+Configure pre-built AI agents or define custom behavioral rules.
+
+#### Step 03 — Watch Productivity Surge
+
+NovaFlow automates cross-system execution, summarizes progress, and keeps workflows synchronized.
+
+---
+
+### 5. Solutions / Comparison Section
+
+The Solutions section demonstrates the difference between traditional development workflows and the NovaFlow approach.
+
+It highlights problems such as:
+
+- Fragmented Context
+- Manual Ticket Updates
+- Disconnected Development Tools
+
+It also presents solutions such as:
+
+- Unified Knowledge
+- Autonomous Synthesis
+- Centralized AI workspace
+
+A live pipeline visualization is included to demonstrate productivity improvements.
+
+---
+
+### 6. Customer Testimonials
+
+The Testimonials section showcases customer feedback using professionally styled testimonial cards.
+
+The section includes:
+
+- Customer ratings
+- Customer names
+- Job titles
+- Company names
+- Highlighted testimonial card
+- Modern avatar elements
+
+---
+
+### 7. Pricing Section
+
+NovaFlow includes three pricing tiers:
+
+| Plan | Price | Target Users |
+|------|------:|--------------|
+| Starter | $29 / user / month | Small teams & individual creators |
+| Pro Team | $79 / user / month | Growing engineering & product teams |
+| Enterprise | $199 / user / month | Large organizations |
+
+The **Pro Team** plan is highlighted as the most popular option.
+
+---
+
+### 8. Final Call-to-Action
+
+The final CTA encourages users to start using NovaFlow with:
+
+- 14-day free trial
+- Talk to an Architect option
+- No credit card requirement
+- Full access during trial
+- Quick setup messaging
+
+---
+
+### 9. Comprehensive Footer
+
+The footer contains:
+
+- NovaFlow brand information
+- Product links
+- Resources
+- Company links
+- Social media icons
+- Privacy and terms links
+- Copyright information
+- OIBSIP internship attribution
+- Author information
+
+---
+
+# 📸 Project Screenshots
+
+The following screenshots showcase the major sections of the NovaFlow landing page.
+
+---
+
+## 🏠 Home / Hero Section
+
+![NovaFlow Home](screenshots/Home%289%29.png)
+
+The hero section introduces NovaFlow with the main product headline, CTA buttons, product dashboard visualization, and social proof.
+
+---
+
+## ⚡ Features / Core Capabilities
+
+![NovaFlow Features](screenshots/Features%281%29.png)
+
+The Features section presents the core AI-powered capabilities of the NovaFlow platform.
+
+---
+
+## ⚙️ How It Works
+
+![NovaFlow How It Works](screenshots/How-It-Works.png)
+
+The How It Works section explains the three-step workflow for connecting tools, configuring smart agents, and improving productivity.
+
+---
+
+## 🔄 Solutions / Comparison
+
+![NovaFlow Solutions](screenshots/Solutions.png)
+
+The Solutions section compares traditional fragmented workflows with NovaFlow's unified workflow approach.
+
+---
+
+## 💬 Customer Testimonials
+
+![NovaFlow Testimonials](screenshots/Testimonials.png)
+
+The Testimonials section presents customer reviews and social proof from engineering and product leaders.
+
+---
+
+## 💳 Pricing
+
+![NovaFlow Pricing](screenshots/Pricing.png)
+
+The Pricing section presents Starter, Pro Team, and Enterprise subscription plans.
+
+---
+
+## 📌 Footer
+
+![NovaFlow Footer](screenshots/Footer.png)
+
+The footer contains product navigation, resources, company information, social links, and internship attribution.
+
+---
+
+# 🛠️ Technologies Used
+
+### Frontend
+
+- **HTML5**
+- **CSS3**
+
+### HTML5 Concepts
+
+- Semantic HTML
+- Header
+- Navigation
+- Main
+- Section
+- Article
+- Footer
+- Figure
+- Accessible markup
+
+### CSS3 Concepts
+
+- CSS Variables
+- Flexbox
+- CSS Grid
+- Media Queries
+- Responsive Typography
+- `clamp()`
+- CSS Gradients
+- CSS Animations
+- Hover Effects
+- Glassmorphism
+- Responsive Layouts
+- Custom Components
+
+### Fonts
+
+- Plus Jakarta Sans
+- Space Grotesk
+
+### Icons & Graphics
+
+- Inline SVG icons
+- CSS-based visual elements
+- Gradient UI components
+
+### Frameworks
+
+**No CSS frameworks were used.**
+
+The project was developed using pure HTML5 and CSS3.
+
+---
+
+# 📂 Folder Structure
 
 ```text
-OIBSIP/
-└── WebDev-L1-LandingPage/
-    ├── index.html       # Primary semantic HTML5 webpage
-    ├── style.css        # Pure CSS3 stylesheet & design tokens
-    └── README.md        # Detailed project documentation & submission info
-```
-
----
-
-## 📱 Responsive Design Information
-
-The landing page implements a mobile-first and fluid responsive approach using CSS Grid, Flexbox, and tailored media queries:
-
-| Device Type | Viewport Width | Layout Behavior |
-| :--- | :--- | :--- |
-| **Desktop / Wide Screens** | `≥ 1200px` | Full multi-column grid layouts (3-4 columns), interactive 3D hero card perspective. |
-| **Laptops / Small Desktops** | `993px – 1199px` | Proportionate scaling, preserved multi-column layout with flexible container padding. |
-| **Tablets** | `769px – 992px` | 2-column grid reflow, hero content stacked above mockup, centered alignment. |
-| **Mobile Phones** | `≤ 768px` | Single-column stack, full-width touch-friendly CTA buttons, collapsible hamburger menu drawer. |
-| **Small Mobile** | `≤ 480px` | Optimized fluid typography via `clamp()`, reduced padding for edge-to-edge readability. |
-
----
-
-## 🚀 How to Run the Project Locally
-
-### Option 1: Direct Browser Launch (Simplest)
-1. Navigate to the project folder:
-   ```text
-   OIBSIP/WebDev-L1-LandingPage/
-   ```
-2. Double-click `index.html` to open it in any modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Brave).
-
-### Option 2: Using VS Code Live Server
-1. Open the `WebDev-L1-LandingPage` folder in **Visual Studio Code**.
-2. Install the **Live Server** extension (by Ritwick Dey).
-3. Right-click `index.html` and click **"Open with Live Server"**.
-4. The website will launch automatically at `http://127.0.0.1:5500/index.html`.
-
-### Option 3: Using Python HTTP Server (Command Line)
-1. Open your terminal / command prompt inside the project folder:
-   ```bash
-   cd OIBSIP/WebDev-L1-LandingPage
-   ```
-2. Start a local server:
-   ```bash
-   python -m http.server 8000
-   ```
-3. Open `http://localhost:8000` in your web browser.
-
----
-
-## 📋 Requirement Verification Checklist
-
-- [x] **Sticky Navigation Bar:** Implemented with 5 navigation links and 2 action buttons.
-- [x] **Hero Section:** Strong headline, subheadline, dual CTAs, trust badge, and SaaS mockup.
-- [x] **Multiple Content Sections:** Features (6 cards), How It Works (3 steps), Solutions comparison, Metrics, Testimonials (3 cards), Pricing (3 tiers), and Final CTA.
-- [x] **Footer:** Multi-column layout with social icons, site links, and author credits.
-- [x] **Consistent Colour Palette:** Premium dark slate theme with electric indigo, violet, and cyan accents.
-- [x] **Full Responsiveness:** Verified on Desktop, Tablet, and Mobile viewports.
-- [x] **CSS Flexbox & Grid:** Used throughout the entire layout.
-- [x] **No Element Overlap:** Strict box model (`box-sizing: border-box`), intentional margins and padding.
-- [x] **Typography Hierarchy:** Multiple font sizes structured with Google Fonts (`Plus Jakarta Sans` & `Space Grotesk`).
-- [x] **Zero Frameworks / Pure Vanilla:** Built strictly with HTML5 and CSS3 (no JS, no frameworks).
-
----
-
-## 👨‍💻 Author
-
-**Harshit Raj**  
-*Oasis Infobyte Intern — Web Development & Designing Track*  
-*Submission: Level 1 — Task 1 (Landing Page)*  
-- **GitHub:** [harshitraj7304](https://github.com/harshitraj7304)  
-- **LinkedIn:** [Harshit Raj](https://www.linkedin.com/in/harshit-raj-35a657229)
+WebDev-L1-LandingPage/
+│
+├── screenshots/
+│   ├── Home(9).png
+│   ├── Features(1).png
+│   ├── How-It-Works.png
+│   ├── Solutions.png
+│   ├── Testimonials.png
+│   ├── Pricing.png
+│   └── Footer.png
+│
+├── index.html
+├── style.css
+└── README.md
