@@ -326,22 +326,22 @@ The footer contains product navigation, resources, company information, social l
 The project was developed using pure HTML5 and CSS3.
 
 ---
-👨‍💻 Author
-Harshit Raj
+## 👨‍💻 Author
 
-B.Tech Computer Science & Engineering Student
-Aspiring Software Developer
-Oasis Infobyte Student Intern — Web Development & Designing
+**Harshit Raj**  
+B.Tech Computer Science & Engineering Student | Aspiring Software Developer
 
-I am a Computer Science & Engineering student with an interest in software development, web technologies, problem solving, and building practical digital solutions.
+Developed as part of the **Oasis Infobyte Student Internship Program (OIBSIP)** under the **Web Development & Designing — Level 1, Task 1**.
 
-This project was developed as part of my Oasis Infobyte Student Internship Program (OIBSIP) in the Web Development & Designing track.
+This landing page was designed and developed using **pure HTML5 and CSS3**, focusing on responsive design, modern UI, CSS Grid, Flexbox, animations, and a professional SaaS-style interface.
 
-🔗 Connect With Me
+**Internship:** Oasis Infobyte Student Internship Program (OIBSIP)  
+**Track:** Web Development & Designing  
+**Level:** 1  
+**Task:** Task 1 — Landing Page  
+**Project:** NovaFlow — AI-Powered Productivity Platform
 
-GitHub:
-https://github.com/harshitraj7304
+### 🔗 Connect
 
-LinkedIn:
-https://www.linkedin.com/in/harshit-raj-35a657229
-
+- **GitHub:** [harshitraj7304](https://github.com/harshitraj7304)
+- **LinkedIn:** [Harshit Raj](https://www.linkedin.com/in/harshit-raj-35a657229)
