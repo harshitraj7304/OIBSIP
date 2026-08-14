@@ -179,22 +179,9 @@ https://github.com/harshitraj7304/leadflow-crm
 
 ---
 
-## 📂 Project Structure
-
-```text
-WebDev-L1-Portfolio/
-│
-├── assets/
-│   ├── harshit-raj.jpg
-│   └── Harshit-Raj-Resume.pdf
-│
-├── screenshots/
-│   ├── Home.png
-│   ├── About.png
-│   ├── Skills.png
-│   ├── Projects.png
-│   └── Contact.png
-│
-├── index.html
-├── style.css
-└── README.md
+## 👨‍💻 Author
+**Harshit Raj** 
+*Oasis Infobyte Intern — Web Development & Designing Track* 
+*Submission: Level 1 — Task 2 (Portfolio)* - 
+**GitHub:** [harshitraj7304](https://github.com/harshitraj7304) - 
+**LinkedIn:** [Harshit Raj](https://www.linkedin.com/in/harshit-raj-35a657229)
